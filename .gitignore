@@ -1,3 +1,6 @@
 keys/
 */*.txt
-*/*/
+*/bigram*/
+*/*output*/
+*/*stats*/
+*/*checkpoints*/
